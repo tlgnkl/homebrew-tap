@@ -13,7 +13,7 @@ cask "perekey" do
   end
 
   auto_updates true # Sparkle updates the app itself
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Perekey.app"
 

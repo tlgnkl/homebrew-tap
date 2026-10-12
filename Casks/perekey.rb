@@ -1,6 +1,6 @@
 cask "perekey" do
-  version "0.1.0"
-  sha256 "62982e5e68564f34895bd7169538d984e4e7f5d147254f0fb6f522b493f38270"
+  version "0.1.1"
+  sha256 "68cf97fda12b06a86d6e40aed50086e0defb5f17b70b53ac69b7e9e7d59ecf01"
 
   url "https://github.com/tlgnkl/perekey/releases/download/v#{version}/Perekey-#{version}.dmg"
   name "Perekey"
